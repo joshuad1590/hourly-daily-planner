@@ -1,1 +1,11 @@
 # hourly-daily-planner
+#Desctription 
+Shows today's date at the top.
+You can add text to the textarea and save.
+The info is saved in local storage, so when to refresh the page the info will stay there. 
+The textarea will turn red when the task is out of date. 
+
+#ScreenShot
+./assets/images/workday
+
+#URLs
