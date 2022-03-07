@@ -9,3 +9,4 @@ The textarea will turn red when the task is out of date.
 ./assets/images/workday
 
 #URLs
+https://joshuad1590.github.io/hourly-daily-planner/
