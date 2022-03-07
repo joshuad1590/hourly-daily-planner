@@ -10,3 +10,4 @@ The textarea will turn red when the task is out of date.
 
 #URLs
 https://joshuad1590.github.io/hourly-daily-planner/
+https://github.com/joshuad1590/hourly-daily-planner
